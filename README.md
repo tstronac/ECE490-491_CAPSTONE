@@ -9,3 +9,5 @@ The sensor board has a solar charger circuitry available, I used the design from
 
 You can find the schematics below and pics of it working.
 Enjoy!!!
+
+(Note: V3 is current)
